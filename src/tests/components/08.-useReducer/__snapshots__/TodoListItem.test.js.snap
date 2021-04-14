@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`debe probar el componente <TodoListItem /> debe de mostrarse correctamente 1`] = `
+<li
+  className="list-group-item"
+  key="1"
+>
+  <p
+    className="false"
+    onClick={[Function]}
+  >
+    1
+    .- 
+    Aprender Node
+  </p>
+  <button
+    className="btn btn-outline-danger"
+    onClick={[Function]}
+  >
+    Borrar
+  </button>
+</li>
+`;
